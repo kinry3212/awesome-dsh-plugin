@@ -1,0 +1,6 @@
+url: https://github.com/kinry3212/dsh-meeting-recorder
+name: kinry3212/dsh-meeting-recorder
+category: session
+description:
+  en: Keeps a browsable 12-section meeting record of a long DSH session, updated after each turn by a separate model, with a /record command to toggle, inspect and rebuild it.
+  zh: 为 DSH 长会话维护一份 12 节骨架、随时可查的会议记录，每轮结束由独立模型增量更新，并用 /record 命令开关、查看、重建。
